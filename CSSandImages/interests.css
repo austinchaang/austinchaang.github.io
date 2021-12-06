@@ -58,7 +58,7 @@ border-bottom: 3px solid orangered;
 }
 
 /* Interests */
-.biking-picture {
+.picture {
   margin: 10px;
   width: 330px;
   height: 400px;
@@ -67,12 +67,6 @@ border-bottom: 3px solid orangered;
 .interest-div {
   position: static;
   text-align: center;
-}
-
-.hiking-picture {
-  margin: 10px;
-  width: 330px;
-  height: 400px;
 }
 
 
