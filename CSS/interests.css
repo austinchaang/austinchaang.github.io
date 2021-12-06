@@ -79,9 +79,9 @@ border-bottom: 3px solid orangered;
   height: 400px;
 }
 
-.media {
+/* .media {
   display:inline-block;
-}
+} */
 
 @media (max-width: 375px) {
   .iframe {
