@@ -35,6 +35,16 @@ p {
   font-size: large;
 }
 
+ul {
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: large;
+  display: table;
+  margin: 0 auto;
+  text-align: left;
+  list-style-type: square;
+  list-style-position: inside;
+}
+
 /* Header */
 .topnav {
 width: 100%;
